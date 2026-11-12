@@ -24,7 +24,7 @@ Deployment (Optional): Streamlit / Flask / FastAPI
 🚀 Getting Started
 1. Clone the Repository
 Bash
-git clone https://github.com/your-username/breast-cancer-detection.git
+git clone (https://github.com/Surajitoraon/Breast-Cancer-Detection.git)
 cd breast-cancer-detection
 2. Create a Virtual Environment
 Bash
