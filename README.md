@@ -21,23 +21,6 @@ Data Manipulation & Visualization: Pandas, NumPy, Matplotlib, Seaborn
 
 Deployment (Optional): Streamlit / Flask / FastAPI
 
-📂 Project Structure
-Plaintext
-breast-cancer-detection/
-│
-├── data/                  # Dataset directory (raw and processed)
-├── notebooks/             # Exploratory Data Analysis (EDA) and training notebooks
-├── models/                # Saved model weights (.h5, .pt, .pkl)
-├── src/                   # Source code for preprocessing, training, and evaluation
-│   ├── __init__.py
-│   ├── dataset.py
-│   ├── model.py
-│   └── train.py
-│
-├── app.py                 # Web app interface (if applicable)
-├── requirements.txt       # Project dependencies
-├── LICENSE                # License information
-└── README.md              # Project documentation
 🚀 Getting Started
 1. Clone the Repository
 Bash
